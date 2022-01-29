@@ -1,0 +1,31 @@
+//go tab
+package main
+
+import ("fmt")
+
+import "rsc.io/sampler"
+
+//go main
+func main() {
+  fmt.Println("Hey!")
+}
+
+//go component
+func Opt() string {
+    return ""
+}
+
+//go factor
+func Go() string {
+    return ""
+}
+
+//go quote
+func Hello() string {
+    return sampler.Hello()
+}
+
+//go prose
+func main() {
+  fmt.Print("")
+}
