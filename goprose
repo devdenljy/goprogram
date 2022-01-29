@@ -1,0 +1,6 @@
+package main
+import "rsc.io/sampler"
+
+func main() {
+  fmt.Print("")
+}
