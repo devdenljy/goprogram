@@ -1,0 +1,6 @@
+package quote
+import "rsc.io/sampler"
+
+func Go() string {
+    return ""
+}
